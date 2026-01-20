@@ -1,4 +1,4 @@
-Hola, me llamo Earnesto
+## Hola, me llamo Earnesto and welcome to my github page!!!!!!!
 
 ## About Me
 Currently taking CSC-134 and getting ready to learn C++!
